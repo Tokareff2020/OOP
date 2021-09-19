@@ -43,7 +43,7 @@ public:
     void min(unsigned long long set_pound, unsigned long long set_shilling, unsigned long long set_penny) // вычитание сумм
     {
         penny1 = 240 * pound + 12 * shilling + penny;
-        penny2 = 240 * set_pound + 12 * set_shilling + set_pound;
+        penny2 = 240 * set_pound + 12 * set_shilling + set_penny;
         if (penny1 > penny2)
         {
             penny1 = penny1 - penny2;

@@ -1,0 +1,100 @@
+Enter your amount:100 5
+100,05 roubles
+Menu:
+1 - data input
+2 - data output
+3 - adding amounts
+4 - subtracting amounts
+5 - multiplication of amounts
+6 - dividing amounts
+7 - multiplication by a fractional number
+8 - find out what's more
+9 - division by fraction
+10 - exit
+Your choice:1
+Enter your amount:100 55
+100,55 roubles
+Menu:
+1 - data input
+2 - data output
+3 - adding amounts
+4 - subtracting amounts
+5 - multiplication of amounts
+6 - dividing amounts
+7 - multiplication by a fractional number
+8 - find out what's more
+9 - division by fraction
+10 - exit
+Your choice:2
+100,55 roubles
+Menu:
+1 - data input
+2 - data output
+3 - adding amounts
+4 - subtracting amounts
+5 - multiplication of amounts
+6 - dividing amounts
+7 - multiplication by a fractional number
+8 - find out what's more
+9 - division by fraction
+10 - exit
+Your choice:3
+Enter your amount:100 55
+201,10 roubles
+Menu:
+1 - data input
+2 - data output
+3 - adding amounts
+4 - subtracting amounts
+5 - multiplication of amounts
+6 - dividing amounts
+7 - multiplication by a fractional number
+8 - find out what's more
+9 - division by fraction
+10 - exit
+Your choice:4
+Enter your amount:111 11
+89,99 roubles
+Menu:
+1 - data input
+2 - data output
+3 - adding amounts
+4 - subtracting amounts
+5 - multiplication of amounts
+6 - dividing amounts
+7 - multiplication by a fractional number
+8 - find out what's more
+9 - division by fraction
+10 - exit
+Your choice:4
+Enter your amount:90 0
+Second amount more or amounts are equal
+0,00 roubles
+Menu:
+1 - data input
+2 - data output
+3 - adding amounts
+4 - subtracting amounts
+5 - multiplication of amounts
+6 - dividing amounts
+7 - multiplication by a fractional number
+8 - find out what's more
+9 - division by fraction
+10 - exit
+Your choice:1
+Enter your amount:555 55
+555,55 roubles
+Menu:
+1 - data input
+2 - data output
+3 - adding amounts
+4 - subtracting amounts
+5 - multiplication of amounts
+6 - dividing amounts
+7 - multiplication by a fractional number
+8 - find out what's more
+9 - division by fraction
+10 - exit
+Your choice:5
+Enter your amount:1 31
+727,77 roubles
